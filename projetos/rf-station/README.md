@@ -1,5 +1,11 @@
 # 📡 RF STATION
 
+<p align="center">
+  <img src="../../assets/Imagem%20do%20ChatGPT%2029%20de%20out.%20de%202026%2C%2015_39_25.png" alt="Arte conceitual RF STATION: viajante espacial em uma bancada de rádio retrô, com estética anime e planetas ao fundo" width="100%" />
+</p>
+
+> **Arte conceitual:** equipamentos e sinais ilustrados não representam montagem ou medições reais.
+
 **Status: Ideia inicial**
 
 Proposta de bancada experimental de telecomunicações para estudar
