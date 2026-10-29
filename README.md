@@ -119,22 +119,10 @@ Construir uma base sólida em telecomunicações e desenvolver projetos com foco
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=valerialibert&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valerialibert&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</p>
-
----
-
 ## 🌌 Conecte-se comigo
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/valéria-libert-79b353329">
-    <img src="https://img.shields.io/badge/LinkedIn-Valéria%20Libert-6A5ACD?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+
+[🔗 Meu LinkedIn](https://www.linkedin.com/in/val%C3%A9ria-libert-79b353329)
 
 ---
 
