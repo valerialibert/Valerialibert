@@ -57,6 +57,13 @@ Este GitHub é o meu espaço para documentar estudos, compartilhar projetos e ac
 ## 🛰️ MISSION CONTROL | Central de Missões
 
 <p align="center">
+  <img src="./assets/mission-control.svg" alt="Painel ilustrativo Mission Control com satélite, estação terrena e comunicação por rádio" width="100%" />
+</p>
+
+> **Visual conceitual:** dados e indicadores são ilustrativos, não representam medições reais.
+
+
+<p align="center">
   <img src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO%20ACADÊMICO-6A5ACD?style=for-the-badge" />
   <img src="https://img.shields.io/badge/FOCO-RF%20%7C%20SATCOM%20%7C%20REDES-0077B6?style=for-the-badge" />
 </p>
