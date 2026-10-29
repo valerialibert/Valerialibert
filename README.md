@@ -74,11 +74,11 @@ Aqui documento estudos, experimentos e projetos acadêmicos relacionados às tec
 
 ### 🌌 Missões planejadas
 
-| 📡 MISSION 01 — RF STATION | 🛰️ MISSION 02 — SATCOM LAB |
+| 📡 [MISSION 01 — RF STATION](./projetos/rf-station/) | 🛰️ MISSION 02 — SATCOM LAB |
 |:---|:---|
 | Estação de rádio experimental | Comunicação via satélite |
 | Antenas, propagação, frequências e enlaces de rádio. | SDR, estações terrenas e sistemas espaciais. |
-| **Status:** Planejamento | **Status:** Estudos |
+| **Status:** Ideia inicial | **Status:** Estudos |
 
 | 🌐 MISSION 03 — NETWORK LAB | 🔌 MISSION 04 — DIGITAL SYSTEMS |
 |:---|:---|
