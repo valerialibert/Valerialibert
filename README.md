@@ -53,21 +53,47 @@ Este GitHub é o meu espaço para documentar estudos, compartilhar projetos e ac
 
 ---
 
-## 🚀 Projetos e estudos
 
-Aqui pretendo compartilhar projetos acadêmicos, estudos e documentações técnicas.
+## 🛰️ MISSION CONTROL | Central de Missões
 
-### 📻 Estação de rádio experimental
-Projeto voltado ao estudo de comunicação por rádio, antenas, propagação e estrutura de enlace.
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO%20ACADÊMICO-6A5ACD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FOCO-RF%20%7C%20SATCOM%20%7C%20REDES-0077B6?style=for-the-badge" />
+</p>
 
-### 🛰️ Comunicação via satélite
-Exploração de conceitos ligados a sistemas espaciais, SDR, enlaces, antenas e estações terrenas.
+Bem-vindo(a) à minha central de projetos! 🚀
 
-### 🌐 Laboratório de redes e VoIP
-Estudos sobre SIP, RTP, telefonia IP, análise de tráfego e comportamento de redes de telecomunicações.
+Aqui documento estudos, experimentos e projetos acadêmicos relacionados às tecnologias de comunicação.
 
-### 🔌 Sistemas digitais e eletrônica
-Experimentos com Arduino, lógica digital e fundamentos práticos de eletrônica.
+### 🌌 Missões planejadas
+
+| 📡 MISSION 01 — RF STATION | 🛰️ MISSION 02 — SATCOM LAB |
+|:---|:---|
+| Estação de rádio experimental | Comunicação via satélite |
+| Antenas, propagação, frequências e enlaces de rádio. | SDR, estações terrenas e sistemas espaciais. |
+| **Status:** Planejamento | **Status:** Estudos |
+
+| 🌐 MISSION 03 — NETWORK LAB | 🔌 MISSION 04 — DIGITAL SYSTEMS |
+|:---|:---|
+| Redes e telefonia IP | Eletrônica e Arduino |
+| Protocolos SIP, RTP, VoIP e análise de tráfego. | Sistemas digitais, circuitos e programação. |
+| **Status:** Estudos | **Status:** Estudos |
+
+---
+
+### 📡 Telemetria acadêmica
+
+```text
+SYSTEM: UTFPR TELECOM LAB
+USER:   VALERIA LIBERT
+
+> RF / ANTENNAS .............. LEARNING
+> SATELLITE COMMUNICATION .... EXPLORING
+> NETWORKS & VOIP ............ PRACTICING
+> PYTHON & LINUX ............. DEVELOPING
+
+MISSION: TURN KNOWLEDGE INTO TECHNOLOGY
+```
 
 ---
 
