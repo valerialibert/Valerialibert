@@ -1,3 +1,14 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A63D2&height=220&section=header&text=Valéria%20Libert&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Telecomunicações%20|%20UTFPR%20|%20RF%20e%20Sistemas%20de%20Comunicação&descAlignY=60&descSize=18" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/valéria-libert-79b353329">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-8A63D2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+# Olá, eu sou a Valéria! 👋💜
 # Olá, eu sou a Valéria! 👋💜
 
 ### 🎓 Estudante de Tecnologia em Sistemas de Telecomunicações | UTFPR
