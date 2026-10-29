@@ -1,0 +1,12 @@
+# Convenções locais previstas para futuros scripts Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.ipynb_checkpoints/
+.env
+.env.*
+!.env.example
+# Arquivos locais sensíveis de eventual levantamento
+dados-privados/
