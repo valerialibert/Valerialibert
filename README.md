@@ -9,7 +9,6 @@
 </p>
 
 # Olá, eu sou a Valéria! 👋💜
-# Olá, eu sou a Valéria! 👋💜
 
 ### 🎓 Estudante de Tecnologia em Sistemas de Telecomunicações | UTFPR
 
